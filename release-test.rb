@@ -2,9 +2,9 @@
 class ReleaseTest < Formula
   desc ""
   homepage "https://www.ory.sh"
-  url "https://github.com/aeneasr/release-test/releases/download/v0.0.12/release-test_0.0.12_macOS_64-bit.tar.gz"
-  version "0.0.12"
-  sha256 "8a3a44002ee21f0bf15beb07ce371fd6b2dc9746b8fc905239f7d3e20e804f40"
+  url "https://github.com/aeneasr/release-test/releases/download/v0.0.13/release-test_0.0.13_macOS_64-bit.tar.gz"
+  version "0.0.13"
+  sha256 "64eb44b7b5f01483621376fccf96b8c0ee5a02518537742cdbd5f9a157bf4db9"
 
   def install
     bin.install "release-test"
